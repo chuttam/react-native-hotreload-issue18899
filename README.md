@@ -13,7 +13,7 @@ and uncomment out the following lines:
 
 https://github.com/chuttam/react-native-hotreload-issue18899/blob/master/App.js#L31-L38
 
-App content now no longer refreshes on file saves.
+App content now no longer refreshes on file saves, even though the "Hot Reloading" toast message still appears on the device.
 
 Note: I have only tested Hot Reload with this Demo app on an Android device. No access to iOS emulator/device.
 
