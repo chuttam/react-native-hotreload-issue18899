@@ -1,0 +1,3 @@
+rootProject.name = 'HotReloadIssue18899'
+
+include ':app'
